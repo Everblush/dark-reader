@@ -18,4 +18,4 @@
 - Open the ```dark-reader``` menu from the extensions tab on your browser bar
 - Under ```Theme for all websites``` click ```see all options```.
 - Select ```colors``` and change the colors to the settings shown below. 
-![settings](https://raw.githubusercontent.com/Everblush/assets/main/dark-reader/settings.png) 
+- ![settings](https://raw.githubusercontent.com/Everblush/assets/main/dark-reader/settings.png) 
