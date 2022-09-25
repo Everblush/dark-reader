@@ -1,3 +1,7 @@
+<div align="center">
+<img src="./assets/logo.png" height="200px" width="200px">
+</div> 
+
 <h2 align="center">Everblush Dark Reader Theme</h2>
 
 <div align="center"> 
@@ -14,4 +18,4 @@
 - Open the ```dark-reader``` menu from the extensions tab on your browser bar
 - Under ```Theme for all websites``` click ```see all options```.
 - Select ```colors``` and change the colors to the settings shown below. 
-- ![settings](https://raw.githubusercontent.com/Everblush/assets/main/dark-reader/settings.png) 
+![settings](https://raw.githubusercontent.com/Everblush/assets/main/dark-reader/settings.png) 
